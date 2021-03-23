@@ -225,4 +225,8 @@
     color: var(--accent-color);
 }
 
+.footer-addres {
+    font-style: normal;
+}
+
 /* ======= END FOOTER ======= */
